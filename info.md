@@ -1,7 +1,5 @@
 ### Salem Information
 
 ### Social Links
-* [Meetup](https://www.meetup.com/meetup-group-gzrmdmev/)
-* [LinkedIn](https://www.linkedin.com/company/owasp-salem/)
+* [Meetup](https://www.meetup.com/owasp-salem-chapter/)
 
-* [Instagram](https://www.instagram.com/owasp_salem/)
