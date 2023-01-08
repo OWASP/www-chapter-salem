@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Salem
 tags: OWASP Salem
 region: Asia
-meetup-group:
+meetup-group: owasp-salem-chapter
 
 ---
 
