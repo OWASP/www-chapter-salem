@@ -20,4 +20,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
+#### Fundamentals of Network Arhitecture Review by Sivakumar S - 16-09-2023
+#### [Register](https://forms.gle/9KRxuMNY5ov7WNs46)
+
+<img src="assets/images/Owasp%20September%20Poster.jpg"/>
