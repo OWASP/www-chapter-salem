@@ -8,6 +8,6 @@ tags: OWASP Salem
 ---
 
 ## Upcoming Events
-#### Stay tuned
+#### Blockchain Forensics by Ashwin Ragav - https://www.meetup.com/owasp-salem-india/events/297169871/?isFirstPublish=true
 
 
