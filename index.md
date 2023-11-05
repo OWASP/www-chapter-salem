@@ -21,4 +21,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-#### Stay Tuned
+#### [Blockchain Forensics by Ashwin Ragav](https://www.meetup.com/owasp-salem-india/events/297169871/?isFirstPublish=true)
+
+<img src="assets/images/OWASP%20SAlem%20November.jpg"/>
