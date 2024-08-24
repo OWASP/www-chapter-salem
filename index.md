@@ -21,6 +21,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-#### [Unveiling GRC Essentials by Anjali Sumesj](https://www.meetup.com/owasp-salem-india/events/302843081)
+#### [Staytuned]
 
-<img src="assets/images/OWASP%20Salem%20August%202024.jpg"/>
+
