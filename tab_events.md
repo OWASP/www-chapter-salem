@@ -8,6 +8,7 @@ tags: OWASP Salem
 ---
 
 ## Upcoming Events
-#### [Staytuned]
+#### [Why Companies need GRC](https://www.meetup.com/owasp-salem-india/events/306253171/) - Natarajan Suresh
+<img src="/assets/images/February%202025%20Speaker.jpeg" style="width: 400px;">
 
 
