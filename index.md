@@ -22,6 +22,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 #### [Why Companies need GRC](https://www.meetup.com/owasp-salem-india/events/306253171/) - Natarajan Suresh
-<img src="/assets/images/February%202025%20Speaker.jpeg" style="width: 400px;">
+![Event](/assets/images/February%202025%20Speaker.jpeg)
 
 
