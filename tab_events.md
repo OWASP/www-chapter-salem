@@ -8,7 +8,7 @@ tags: OWASP Salem
 ---
 
 ## Upcoming Events
-#### [Why Companies need GRC](https://www.meetup.com/owasp-salem-india/events/306253171/) - Natarajan Suresh
-<img src="/assets/images/February%202025%20Speaker.jpeg" style="width: 400px;">
+#### [BurpAI - Your Smart Assistant for Pentesting](https://www.meetup.com/owasp-salem-india/events/307541137) - Harsh Dhamaniya
+![Event](/assets/images/May2025.png)
 
 
