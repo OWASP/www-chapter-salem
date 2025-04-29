@@ -21,7 +21,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-#### [Why Companies need GRC](https://www.meetup.com/owasp-salem-india/events/306253171/) - Natarajan Suresh
-![Event](/assets/images/February%202025%20Speaker.jpeg)
+#### [BurpAI - Your Smart Assistant for Pentesting](https://www.meetup.com/owasp-salem-india/events/307541137) - Harsh Dhamaniya
+![Event](/assets/images/May2025.png)
 
 
