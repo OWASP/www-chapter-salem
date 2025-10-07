@@ -21,7 +21,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-#### [AI & ML Security: Securing the Future of Intelligent Systems](https://www.meetup.com/owasp-salem-india/events/311402895) - Harsh Dhamaniya
+#### [AI & ML Security: Securing the Future of Intelligent Systems](https://www.meetup.com/owasp-salem-india/events/311402895) - Jaswanth
 ![Event](/assets/images/OCT-2025.png)
 
 
