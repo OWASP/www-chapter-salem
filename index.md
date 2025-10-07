@@ -21,7 +21,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-#### [BurpAI - Your Smart Assistant for Pentesting](https://www.meetup.com/owasp-salem-india/events/307541137) - Harsh Dhamaniya
-![Event](/assets/images/May2025.png)
+#### [AI & ML Security: Securing the Future of Intelligent Systems](https://www.meetup.com/owasp-salem-india/events/311402895) - Harsh Dhamaniya
+![Event](/assets/images/OCT-2025.png)
 
 
