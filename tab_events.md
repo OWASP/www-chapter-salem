@@ -8,7 +8,7 @@ tags: OWASP Salem
 ---
 
 ## Upcoming Events
-#### [BurpAI - Your Smart Assistant for Pentesting](https://www.meetup.com/owasp-salem-india/events/307541137) - Harsh Dhamaniya
-![Event](/assets/images/May2025.png)
+#### [AI & ML Security: Securing the Future of Intelligent Systems](https://www.meetup.com/owasp-salem-india/events/311402895) - Jaswanth
+![Event](/assets/images/OCT-2025.png)
 
 
