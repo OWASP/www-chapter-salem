@@ -8,7 +8,9 @@ country: India
 meetup-group: owasp-salem-chapter
 
 ---
+# OWASP Salem Chapter
 
+![OWASP Salem Chapter](/assets/images/salem_banner.png)
 ## Welcome
 OWASP Salem Was Started On June, 2021. We Organized Metting, Webminars, Conferences And Workshops On Cyber Security And Releated Stuff. All Events Organized By Us Are Open To Everyone Who Is Intrested In Participating.
 
