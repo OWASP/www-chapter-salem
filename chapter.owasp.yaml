@@ -1,0 +1,24 @@
+leaders:
+  - name: Rhishinathvarma Marimuthu
+    email: rhishinathvarma.marimuthu@owasp.org
+    github: rhishinathvarma
+  - name: Karthikeyan Ramasamy
+    email: karthikeyan.ramasamy@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Tamil Nadu
+  city: Salem
+  latitude: 11.64696155
+  longitude: 78.21069575456464
+meetup_group: owasp-salem-chapter
+name: OWASP Salem
+repositories:
+  - name: www-chapter-salem
+    url: https://github.com/OWASP/www-chapter-salem
+    description: OWASP Foundation Web Repository
+tags:
+  - OWASP
+  - Salem
+  - custom-tag-1
+website: https://owasp.org/www-chapter-salem
